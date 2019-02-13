@@ -1,0 +1,178 @@
+﻿@font-face {
+	font-family: 'Calibri_TrueType_0';
+	src: local('Calibri_TrueType_0');
+	src: url('Calibri_TrueType_0.ttf') format('truetype');
+}
+
+.fmt-0{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:50.04pt;}
+
+.fmt-1{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:48pt;}
+
+.fmt-2{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:54.96pt;}
+
+.fmt-3{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:27.984pt;}
+
+.fmt-4{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:39.96pt;}
+
+.fmt-5{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:39.984pt;}
+
+@font-face {
+	font-family: 'Calibri_Type0_1';
+	src: local('Calibri_Type0_1');
+	src: url('Calibri_Type0_1.otf') format('opentype');
+}
+
+.fmt-6{font-style:normal;font-weight:normal;font-family:Calibri_Type0_1,Calibri,serif;color:#2e2b1f;font-size:24.96pt;}
+
+.fmt-7{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:24.96pt;}
+
+.fmt-8{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:42.984pt;}
+
+.fmt-9{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:24.984pt;}
+
+.fmt-10{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:24.96pt;}
+
+.fmt-11{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:42.96pt;}
+
+.fmt-12{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:17.04pt;}
+
+.fmt-13{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:17.064pt;}
+
+@font-face {
+	font-family: 'Calibri_TrueType_2';
+	src: local('Calibri_TrueType_2');
+	src: url('Calibri_TrueType_2.ttf') format('truetype');
+}
+
+.fmt-14{font-style:normal;font-weight:bold;font-family:Calibri_TrueType_2,Calibri,serif;color:#2e2b1f;font-size:18pt;}
+
+.fmt-15{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:18pt;}
+
+.fmt-16{font-style:normal;font-weight:bold;font-family:Calibri_TrueType_2,Calibri,serif;color:#2e2b1f;font-size:18.024pt;}
+
+.fmt-17{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:18.024pt;}
+
+.fmt-18{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:15pt;}
+
+.fmt-19{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:15.024pt;}
+
+.fmt-20{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:41.04pt;}
+
+.fmt-21{font-style:normal;font-weight:normal;font-family:Calibri_Type0_1,Calibri,serif;color:#2e2b1f;font-size:18pt;}
+
+.fmt-22{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:42.96pt;}
+
+.fmt-23{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:17.04pt;}
+
+.fmt-24{font-style:normal;font-weight:bold;font-family:Calibri_TrueType_2,Calibri,serif;color:#000000;font-size:17.04pt;}
+
+.fmt-25{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:15pt;}
+
+.fmt-26{font-style:normal;font-weight:normal;font-family:Calibri_Type0_1,Calibri,serif;color:#000000;font-size:15pt;}
+
+.fmt-27{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:15.024pt;}
+
+.fmt-28{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:15.96pt;}
+
+.fmt-29{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:42.984pt;}
+
+.fmt-30{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:18pt;}
+
+.fmt-31{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:17.064pt;}
+
+.fmt-32{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:14.04pt;}
+
+.fmt-33{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:14.064pt;}
+
+.fmt-34{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:3.96pt;}
+
+.fmt-35{font-style:normal;font-weight:normal;font-family:Calibri_Type0_1,Calibri,serif;color:#ffffff;font-size:15pt;}
+
+.fmt-36{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#ffffff;font-size:14.04pt;}
+
+.fmt-37{font-style:normal;font-weight:normal;font-family:Calibri_Type0_1,Calibri,serif;color:#000000;font-size:24.96pt;}
+
+.fmt-38{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#ffffff;font-size:24.96pt;}
+
+.fmt-39{font-style:normal;font-weight:bold;font-family:Calibri_TrueType_2,Calibri,serif;color:#000000;font-size:14.04pt;}
+
+.fmt-40{font-style:normal;font-weight:normal;font-family:Calibri_Type0_1,Calibri,serif;color:#ffffff;font-size:15.024pt;}
+
+.fmt-41{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#ffffff;font-size:15pt;}
+
+.fmt-42{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#ffffff;font-size:3.96pt;}
+
+@font-face {
+	font-family: 'Courier_New_TrueType_3';
+	src: local('Courier_New_TrueType_3');
+	src: url('Courier_New_TrueType_3.ttf') format('truetype');
+}
+
+.fmt-43{font-style:normal;font-weight:normal;font-family:Courier_New_TrueType_3,Courier New,serif;color:#000000;font-size:18.96pt;}
+
+@font-face {
+	font-family: 'Verdana_TrueType_4';
+	src: local('Verdana_TrueType_4');
+	src: url('Verdana_TrueType_4.ttf') format('truetype');
+}
+
+.fmt-44{font-style:normal;font-weight:normal;font-family:Verdana_TrueType_4,Verdana,serif;color:#000000;font-size:18.96pt;}
+
+.fmt-45{font-style:normal;font-weight:normal;font-family:Verdana_TrueType_4,Verdana,serif;color:#000000;font-size:18.984pt;}
+
+.fmt-46{font-style:normal;font-weight:normal;font-family:Verdana_TrueType_4,Verdana,serif;color:#000000;font-size:18pt;}
+
+@font-face {
+	font-family: 'Gulim_TrueType_5';
+	src: local('Gulim_TrueType_5');
+	src: url('Gulim_TrueType_5.ttf') format('truetype');
+}
+
+.fmt-47{font-style:normal;font-weight:normal;font-family:Gulim_TrueType_5,Gulim,serif;color:#000000;font-size:20.04pt;}
+
+.fmt-48{font-style:normal;font-weight:normal;font-family:Verdana_TrueType_4,Verdana,serif;color:#000000;font-size:12pt;}
+
+.fmt-49{font-style:normal;font-weight:normal;font-family:Verdana_TrueType_4,Verdana,serif;color:#000000;font-size:18.024pt;}
+
+.fmt-50{font-style:normal;font-weight:normal;font-family:Verdana_TrueType_4,Verdana,serif;color:#2e2b1f;font-size:24.96pt;}
+
+.fmt-51{font-style:normal;font-weight:normal;font-family:Verdana_TrueType_4,Verdana,serif;color:#2e2b1f;font-size:24.984pt;}
+
+@font-face {
+	font-family: 'Wingdings_Type0_6';
+	src: local('Wingdings_Type0_6');
+	src: url('Wingdings_Type0_6.otf') format('opentype');
+}
+
+.fmt-52{font-style:normal;font-weight:normal;font-family:Wingdings_Type0_6,Wingdings,serif;color:#2e2b1f;font-size:48.024pt;}
+
+.fmt-53{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:48.024pt;}
+
+@font-face {
+	font-family: 'Cambria_TrueType_7';
+	src: local('Cambria_TrueType_7');
+	src: url('Cambria_TrueType_7.ttf') format('truetype');
+}
+
+.fmt-54{font-style:normal;font-weight:normal;font-family:Cambria_TrueType_7,Cambria,serif;color:#675e46;font-size:27.984pt;}
+
+@font-face {
+	font-family: 'Arial_Type0_8';
+	src: local('Arial_Type0_8');
+	src: url('Arial_Type0_8.otf') format('opentype');
+}
+
+.fmt-55{font-style:normal;font-weight:normal;font-family:Arial_Type0_8,Arial,serif;color:#a9a47b;font-size:18pt;}
+
+.fmt-56{font-style:normal;font-weight:normal;font-family:Arial_Type0_8,Arial,serif;color:#a9a47b;font-size:20.04pt;}
+
+.fmt-57{font-style:normal;font-weight:bold;font-family:Calibri_TrueType_2,Calibri,serif;color:#2e2b1f;font-size:20.04pt;}
+
+.fmt-58{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:20.04pt;}
+
+.fmt-59{font-style:normal;font-weight:normal;font-family:Arial_Type0_8,Arial,serif;color:#a9a47b;font-size:18.024pt;}
+
+.fmt-60{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#2e2b1f;font-size:27.96pt;}
+
+.fmt-61{font-style:normal;font-weight:normal;font-family:Calibri_TrueType_0,Calibri,serif;color:#000000;font-size:101.04pt;}
+
